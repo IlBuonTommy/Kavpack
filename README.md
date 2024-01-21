@@ -13,6 +13,7 @@ Run the modded game at least once. Next, if you use r2modman, click on "Config e
 <details>
   <summary>HDLethalCompany</summary>
   For better video quality:
+  
   - EnableAA: true
   - FogQuality: 2
   - LOD: 2
@@ -20,22 +21,26 @@ Run the modded game at least once. Next, if you use r2modman, click on "Config e
 
 <details>
   <summary>LethalPresents</summary>
+  
   - ShouldSpawnMines: false
 </details>
 
 <details>
   <summary>SkinwalkerMod</summary>
+  
   - Other Enemies (Including Modded): false
 </details>
 
 <details>
   <summary>helmetcameras</summary>
+  
   - monitorResolution: 3
   - monitorResolution: 30
 </details>
 
 <details>
   <summary>MoreEmotes</summary>
+  
   - Key: B
 </details>
 
