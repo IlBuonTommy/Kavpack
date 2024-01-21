@@ -1,5 +1,11 @@
 # Kavpack
-A modpack that aims not to overturn the game but adds mechanics that help players during the game and increase the number of things that can kill you and your friends in a fun way!
+This modpack is a comprehensive collection that significantly enhances and customizes the gaming experience. It includes a variety of mods designed to add both practical and whimsical elements to the game. From the practical standpoint, mods like the one displaying the total value of scrap in the ship, support for ultrawide monitors, and enhanced graphics settings improve the game's usability and visual appeal. These improvements make the game more accessible and visually engaging, especially for players with specific hardware setups.
+
+In terms of whimsy and fun, the modpack brings a lot of character and humor to the game. Mods that replace standard game sounds with humorous alternatives, such as turning lizard spray sounds into farts or changing drop sounds to meme effects, add a layer of humor and light-heartedness. The addition of a soundboard, new emotes, and the ability to spectate enemies when dead further contribute to a more entertaining gaming experience.
+
+For those looking for a more social and interactive experience, the modpack includes features like expanding the game lobby to accommodate more players, adding the ability to push crewmates, and various communication enhancements like the walkie-talkie toggle and helmet cameras. These mods foster a more dynamic and engaging multiplayer environment.
+
+The modpack doesn't shy away from adding new challenges and elements to the gameplay either. With the introduction of new monsters, enemies, and game mechanics, players can expect a refreshed and more challenging experience. This keeps the game exciting and unpredictable.
 
 ## Recommended config
 To improve compatibility between mods we recommend changing the configurations of these mods.
@@ -43,6 +49,9 @@ Run the modded game at least once. Next, if you use r2modman, click on "Config e
   
   - Key: B
 </details>
+
+## Known issues
+Pressing F turns the flashlight on or off and a random emote plays.
 
 ## Credits
 A big thank you to all the programmers who made these mods, many of them accept donations. Go check them out if you want to support them.

@@ -1,3 +1,6 @@
+## v1.1.1 New issue new day
+- Readme update
+
 ## v1.1.0 Added new mods
 - Added: LCUltrawide, Dont_Touch_Me, LCFartLizards, AlwaysHearActiveWalkies, BonkHitSFX, Boombox_Controller.
 - Readme update
