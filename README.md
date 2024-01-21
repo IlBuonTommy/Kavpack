@@ -51,7 +51,9 @@ Run the modded game at least once. Next, if you use r2modman, click on "Config e
 </details>
 
 ## Known issues
-Pressing F turns the flashlight on or off and a random emote plays.
+Report issues or incompatibility between mods [here](https://github.com/IlBuonTommy/Kavpack/issues)
+
+1. Pressing F turns the flashlight on or off and a random emote plays.
 
 ## Credits
 A big thank you to all the programmers who made these mods, many of them accept donations. Go check them out if you want to support them.
