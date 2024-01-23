@@ -1,3 +1,6 @@
+## v1.2.1 Versions update
+- Manifest update with new versions
+
 ## v1.2.0 Added new mods
 - Added: LethalPosters, NeedyCats, FunPosters.
 - Readme update
