@@ -1,3 +1,7 @@
+## v1.3.0 Added new mods
+- Manifest update with new versions
+- Added: AlternativeQuotaRollover, FacilityMeltdown, HoarderBugUseItems.
+
 ## v1.2.1 Versions update
 - Manifest update with new versions
 
