@@ -1,3 +1,6 @@
+## v1.4.1 Versions update
+- Manifest update with new versions
+
 ## v1.4.0 Balancing
 - Manifest update with new versions
 - Added: LethalProgression.
