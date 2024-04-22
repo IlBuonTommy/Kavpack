@@ -1,3 +1,8 @@
+## v1.5.0 v50 compatible
+- Manifest update with new versions
+- Removed: all incompatible mods
+- Added: Fashion_Company, Possessed_Masks, Monster_Plushies, LethalPhones, MoreCompany, LobbyCompatibility.
+
 ## v1.4.1 Versions update
 - Manifest update with new versions
 

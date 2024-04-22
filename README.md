@@ -44,16 +44,10 @@ No, but do it if you don't want the same key to be mapped for two different acti
   - monitorResolution: 30
 </details>
 
-<details>
-  <summary>MoreEmotes</summary>
-  
-  - Key: B
-</details>
-
 ## Known issues
 Report issues or incompatibility between mods [here](https://github.com/IlBuonTommy/Kavpack/issues)
 
-1. Pressing F turns the flashlight on or off and a random emote plays.
+1. Pressing F using default settings turns the flashlight on or off and a random emote plays. Just change the default setting of one of the two mods.
 
 ## Credits
 A big thank you to all the programmers who made these mods, many of them accept donations. Go check them out if you want to support them.
