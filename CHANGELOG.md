@@ -1,3 +1,8 @@
+## v50.1.0 New version syntax
+- Manifest update with new versions
+- Removed: LC_API which is deprecated and breaks v50
+- Added: Lethal Casino.
+
 ## v1.5.0 v50 compatible
 - Manifest update with new versions
 - Removed: all incompatible mods

@@ -41,13 +41,17 @@ No, but do it if you don't want the same key to be mapped for two different acti
   <summary>helmetcameras</summary>
   
   - monitorResolution: 3
-  - monitorResolution: 30
+  - renderDistance: 30
 </details>
 
 ## Known issues
 Report issues or incompatibility between mods [here](https://github.com/IlBuonTommy/Kavpack/issues)
 
 1. Pressing F using default settings turns the flashlight on or off and a random emote plays. Just change the default setting of one of the two mods.
+
+## Version syntax
+
+Version syntax, such as v50.1.0, follows a specific format within the context of Lethal Company. The first number, 50 in this case, indicates the latest version of Lethal Company with which the modpack has been tested and confirmed working. The second number, 1 in this example, denotes significant changes made to the modpack, such as the addition or removal of new mods. Finally, the third number, 0 here, represents minor changes, such as updating existing versions of mods found in the modpack.
 
 ## Credits
 A big thank you to all the programmers who made these mods, many of them accept donations. Go check them out if you want to support them.
