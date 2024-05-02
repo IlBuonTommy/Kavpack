@@ -1,3 +1,7 @@
+## v50.2.0 New mod
+- Manifest update with new versions
+- Added: SnatchinBracken.
+
 ## v50.1.0 New version syntax
 - Manifest update with new versions
 - Removed: LC_API which is deprecated and breaks v50
