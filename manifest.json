@@ -1,6 +1,6 @@
 {
     "name": "Kavpack",
-    "version_number": "50.2.0",
+    "version_number": "50.3.0",
     "website_url": "https://github.com/IlBuonTommy/Kavpack",
     "description": "v50 Ready - A modpack that doesn't change drastically the game dynamics but will definitely make your friends laugh. Inside you will find the best 50 mods.",
     "dependencies": [
@@ -8,13 +8,13 @@
         "sunnobunno-BonkHitSFX-1.0.5",
         "Suskitech-AlwaysHearActiveWalkies-1.4.5",
         "Pooble-LCFartLizards-1.2.1",
-        "Gemumoddo-BadAssCompany-1.1.10",
+        "Gemumoddo-BadAssCompany-1.1.11",
         "Evaisa-HookGenPatcher-0.0.5",
         "BepInEx-BepInExPack-5.4.2100",
-        "mrgrm7-LethalCasino-0.5.2",
+        "mrgrm7-LethalCasino-0.5.3",
         "Stoneman-LethalProgression-1.3.2",
         "Nyaneko-AlternativeQuotaRollover-1.0.1",
-        "loaforc-FacilityMeltdown-2.6.4",
+        "loaforc-FacilityMeltdown-2.6.11",
         "Jordo-NeedyCats-1.2.1",
         "femboytv-LethalPosters-1.2.3",
         "ZordAndCo-FunPosters-1.0.5",
@@ -24,7 +24,7 @@
         "mattplays-HoarderBugUseItems-1.0.3",
         "Kittenji-Dont_Touch_Me-1.2.2",
         "AinaVT-LethalConfig-1.4.2",
-        "Gemumoddo-LethalEmotesAPI-1.11.5",
+        "Gemumoddo-LethalEmotesAPI-1.12.4",
         "CTMods-ToemmsensCursedSoundMod-1.0.4",
         "Azim-LethalPresents-1.0.7",
         "EliteMasterEric-Coroner-1.6.2",
@@ -59,6 +59,7 @@
         "Scoops-LethalPhones-1.0.9",
         "Dwarggo-Fashion_Company-1.3.1",
         "Evaisa-FixPluginTypesSerialization-1.1.1",
-        "readthisifbad-SnatchinBracken-1.5.0"
+        "readthisifbad-SnatchinBracken-1.5.0",
+        "CHILLAX-ChillaxSCRAPS-0.6.0"
     ]
 }

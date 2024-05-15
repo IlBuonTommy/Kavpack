@@ -1,3 +1,7 @@
+## v50.3.0 New mod
+- Manifest update with new versions
+- Added: ChillaxSCRAPS.
+
 ## v50.2.0 New mod
 - Manifest update with new versions
 - Added: SnatchinBracken.
