@@ -1,3 +1,7 @@
+## v62.0.0 New mod
+- Manifest update with new versions and added new dependency
+- Tested
+
 ## v50.3.0 New mod
 - Manifest update with new versions
 - Added: ChillaxSCRAPS.
