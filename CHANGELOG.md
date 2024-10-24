@@ -1,3 +1,7 @@
+## v65.0.0 Versions update
+- Manifest update with new versions
+- Tested
+
 ## v62.0.0 New mod
 - Manifest update with new versions and added new dependency
 - Tested
