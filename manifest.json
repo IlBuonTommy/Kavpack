@@ -1,6 +1,6 @@
 {
     "name": "Kavpack",
-    "version_number": "65.0.0",
+    "version_number": "65.1.0",
     "website_url": "https://github.com/IlBuonTommy/Kavpack",
     "description": "v65 Ready - A modpack that doesn't change drastically the game dynamics but will definitely make your friends laugh. Inside you will find the best 50 mods.",
     "dependencies": [
@@ -31,7 +31,6 @@
         "PanHouse-LethalClunk-1.1.1",
         "Flof-MemeSoundboard-1.1.2",
         "TopraksuK-FreeBirdTotemRemixJester-1.0.1",
-        "anormaltwig-TerminalExtras-1.0.1",
         "FlipMods-LetMeLookDown-1.0.2",
         "Drakorle-MoreItems-1.0.2",
         "Midge-PushCompany-1.2.0",
@@ -60,10 +59,15 @@
         "Dwarggo-Fashion_Company-1.3.1",
         "Evaisa-FixPluginTypesSerialization-1.1.1",
         "readthisifbad-SnatchinBracken-1.5.1",
-        "CHILLAX-ChillaxSCRAPS-0.8.3",
         "Lordfirespeed-OdinSerializer-2022.11.9",
         "xilophor-StaticNetcodeLib-1.1.1",
         "Hamunii-DetourContext_Dispose_Fix-1.0.3",
-        "Hamunii-AutoHookGenPatcher-1.0.4"
+        "Hamunii-AutoHookGenPatcher-1.0.4",
+        "Zigzag-ChillaxScraps-1.0.1",
+        "Electric131-OuijaBoard-1.5.3",
+        "Pinta-PintoBoy-2.0.3",
+        "TheFluff-FairAI-1.4.1",
+        "Kittenji-NavMeshInCompany-1.0.3",
+        "Kittenji-Herobrine-1.3.4"
         ]
 }
