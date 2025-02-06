@@ -1,3 +1,7 @@
+## v69.0.0 Versions update
+- Manifest update with new versions
+- Tested
+
 ## v65.1.0 New mods
 - Added: PintoBoy v2.0.3 by Pinta, OuijaBoard v1.5.3 by Electric131, FairAI v1.4.1 by TheFluff, Herobrine v1.3.4 by Kittenji.
 - Replaced ChillaxSCRAPS by CHILLAX v0.8.3 with ChillaxScraps v1.0.1 by Zigzag
